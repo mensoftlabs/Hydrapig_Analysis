@@ -1,0 +1,7 @@
+{
+"host": "10.3.141.1",
+"port": "3038",
+"user": "postgres",
+"password": "Mensoft33",
+"database": "termografonest"
+}

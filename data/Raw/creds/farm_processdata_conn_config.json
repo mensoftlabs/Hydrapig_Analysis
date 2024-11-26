@@ -1,0 +1,7 @@
+{
+"host": "146.59.252.144",
+"port": "5104",
+"user": "postgres",
+"password": "Mensoft33",
+"database": "flowmeterdb"
+}
